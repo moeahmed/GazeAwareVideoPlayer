@@ -1,0 +1,7 @@
+export const CHANGE_PARTICIPANT_ID = "CHANGE_PARTICIPANT_ID";
+export const CHANGE_TASKORDER = "CHANGE_TASKORDER";
+export const CHANGE_VIDEO = "CHANGE_VIDEO";
+export const CHANGE_TASK = "CHANGE_TASK";
+export const CHANGE_QSET = "CHANGE_QSET";
+export const CHANGE_SCORE = "CHANGE_SCORE";
+export const CHANGE_IP = "CHANGE_IP";

@@ -1,0 +1,61 @@
+/* Main CSS file */
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html, body {
+  max-width: 100%;
+}
+
+body {
+  overflow: hidden;
+}
+
+#consent-form {
+  overflow: scroll;
+}
+
+#gazeCursor {
+  position: absolute;
+  width: 35px;
+  height: 35px;
+  border: 2px solid rgba(255,255,255,0.3);
+  box-sizing: border-box;
+  border-radius: 50%;
+  pointer-events: none;
+  visibility: hidden;
+  z-index: 3;
+}
+
+video {
+  width: 80vw;
+  height: auto;
+}
+
+#subtitles {
+  width: 80vw;
+  left: 10%;
+  bottom: 15%;
+  overflow: auto;
+  position: absolute;
+  padding: 1rem;
+  text-align: center;
+}
+
+.subtitle {
+  background: rgba(0,0,0,0.6);
+  opacity: 0.9;
+  color: white;
+  padding: 0.3em;
+  font-size: x-large;
+}
+
+.subtitle-item {
+  margin: 0.75em;
+}
+
+.logo {
+  width: 15rem;
+}
+

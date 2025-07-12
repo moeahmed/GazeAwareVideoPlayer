@@ -1,0 +1,317 @@
+[{
+  "id": 1,
+  "participantID": "name-id",
+  "taskOrder": "A11B22C33D44",
+  "distractorResponses":
+  {
+  "qSet1":{
+    "responses": []
+  },
+  "qSet2":{
+    "responses": []
+  },
+  "qSet3":{
+    "responses": []
+  },
+  "qSet4":{
+    "responses": []
+  }}
+},{
+  "id": 2,
+  "participantID": "name-id",
+  "taskOrder": "A21B32C43D14",
+    "distractorResponses":
+  {
+  "qSet1":{
+    "responses": []
+  },
+  "qSet2":{
+    "responses": []
+  },
+  "qSet3":{
+    "responses": []
+  },
+  "qSet4":{
+    "responses": []
+  }}
+}
+,{
+  "id": 3,
+  "participantID": "name-id",
+  "taskOrder": "A31B42C13D24",
+    "distractorResponses":
+  {
+  "qSet1":{
+    "responses": []
+  },
+  "qSet2":{
+    "responses": []
+  },
+  "qSet3":{
+    "responses": []
+  },
+  "qSet4":{
+    "responses": []
+  }}
+}
+,
+{
+  "id": 4,
+  "participantID": "name-id",
+  "taskOrder": "A41B12C23D34",
+    "distractorResponses":
+  {
+  "qSet1":{
+    "responses": []
+  },
+  "qSet2":{
+    "responses": []
+  },
+  "qSet3":{
+    "responses": []
+  },
+  "qSet4":{
+    "responses": []
+  }}
+}
+,
+{
+  "id": 5,
+  "participantID": "name-id",
+  "taskOrder": "B11C22D33A44",
+    "distractorResponses":
+  {
+  "qSet1":{
+    "responses": []
+  },
+  "qSet2":{
+    "responses": []
+  },
+  "qSet3":{
+    "responses": []
+  },
+  "qSet4":{
+    "responses": []
+  }}
+}
+,
+{
+  "id": 6,
+  "participantID": "name-id",
+  "taskOrder": "B21C32D43A14",
+    "distractorResponses":
+  {
+  "qSet1":{
+    "responses": []
+  },
+  "qSet2":{
+    "responses": []
+  },
+  "qSet3":{
+    "responses": []
+  },
+  "qSet4":{
+    "responses": []
+  }}
+}
+,
+{
+  "id": 7,
+  "participantID": "name-id",
+  "taskOrder": "B31C42D13A24",
+    "distractorResponses":
+  {
+  "qSet1":{
+    "responses": []
+  },
+  "qSet2":{
+    "responses": []
+  },
+  "qSet3":{
+    "responses": []
+  },
+  "qSet4":{
+    "responses": []
+  }}
+}
+,
+{
+  "id": 8,
+  "participantID": "name-id",
+  "taskOrder": "B41C12D23A34",
+    "distractorResponses":
+  {
+  "qSet1":{
+    "responses": []
+  },
+  "qSet2":{
+    "responses": []
+  },
+  "qSet3":{
+    "responses": []
+  },
+  "qSet4":{
+    "responses": []
+  }}
+}
+,
+{
+  "id": 9,
+  "participantID": "name-id",
+  "taskOrder": "C11D22A33B44",
+    "distractorResponses":
+  {
+  "qSet1":{
+    "responses": []
+  },
+  "qSet2":{
+    "responses": []
+  },
+  "qSet3":{
+    "responses": []
+  },
+  "qSet4":{
+    "responses": []
+  }}
+}
+,
+{
+  "id": 10,
+  "participantID": "name-id",
+  "taskOrder": "C21D32A43B14",
+    "distractorResponses":
+  {
+  "qSet1":{
+    "responses": []
+  },
+  "qSet2":{
+    "responses": []
+  },
+  "qSet3":{
+    "responses": []
+  },
+  "qSet4":{
+    "responses": []
+  }}
+}
+,
+{
+  "id": 11,
+  "participantID": "name-id",
+  "taskOrder": "C31D42A13B24",
+    "distractorResponses":
+  {
+  "qSet1":{
+    "responses": []
+  },
+  "qSet2":{
+    "responses": []
+  },
+  "qSet3":{
+    "responses": []
+  },
+  "qSet4":{
+    "responses": []
+  }}
+}
+,
+{
+  "id": 12,
+  "participantID": "name-id",
+  "taskOrder": "C41D12A23B34",
+    "distractorResponses":
+  {
+  "qSet1":{
+    "responses": []
+  },
+  "qSet2":{
+    "responses": []
+  },
+  "qSet3":{
+    "responses": []
+  },
+  "qSet4":{
+    "responses": []
+  }}
+}
+,
+{
+  "id": 13,
+  "participantID": "name-id",
+  "taskOrder": "D11A22B33C44",
+    "distractorResponses":
+  {
+  "qSet1":{
+    "responses": []
+  },
+  "qSet2":{
+    "responses": []
+  },
+  "qSet3":{
+    "responses": []
+  },
+  "qSet4":{
+    "responses": []
+  }}
+}
+,
+{
+  "id": 14,
+  "participantID": "name-id",
+  "taskOrder": "D21A32B43C14",
+    "distractorResponses":
+  {
+  "qSet1":{
+    "responses": []
+  },
+  "qSet2":{
+    "responses": []
+  },
+  "qSet3":{
+    "responses": []
+  },
+  "qSet4":{
+    "responses": []
+  }}
+}
+,
+{
+  "id": 15,
+  "participantID": "name-id",
+  "taskOrder": "D31A42B13C24",
+    "distractorResponses":
+  {
+  "qSet1":{
+    "responses": []
+  },
+  "qSet2":{
+    "responses": []
+  },
+  "qSet3":{
+    "responses": []
+  },
+  "qSet4":{
+    "responses": []
+  }}
+}
+,
+{
+  "id": 16,
+  "participantID": "name-id",
+  "taskOrder": "AD41A12B23C34",
+    "distractorResponses":
+  {
+  "qSet1":{
+    "responses": []
+  },
+  "qSet2":{
+    "responses": []
+  },
+  "qSet3":{
+    "responses": []
+  },
+  "qSet4":{
+    "responses": []
+  }}
+}
+]

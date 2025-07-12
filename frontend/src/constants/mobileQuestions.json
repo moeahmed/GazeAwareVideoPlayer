@@ -1,0 +1,239 @@
+{
+    "questions":[
+      { "id": 1,
+        "question": "How many colours are in the Canadian flag?",
+        "answerOptions": [
+          { "answerText": "1 Colour", "isCorrect": false },
+          { "answerText": "2 Colours", "isCorrect": true },
+          { "answerText": "3 Colours", "isCorrect": false }
+        ]
+      },
+      { "id": 2,
+        "question": "How many months are in a year?",
+        "answerOptions": [
+          { "answerText": "11", "isCorrect": false },
+          { "answerText": "12", "isCorrect": true },
+          { "answerText": "13", "isCorrect": false }
+        ]
+      },
+      { "id": 3,
+        "question": "How many moons does earth have?",
+        "answerOptions": [
+          { "answerText": "1 moon", "isCorrect": true },
+          { "answerText": "2 moon", "isCorrect": false },
+          { "answerText": "3 moon", "isCorrect": false }
+        ]
+      }
+      ,
+      { "id": 4,
+        "question": "Which of the following is a 7 letter word?",
+        "answerOptions": [
+          { "answerText": "Longer", "isCorrect": false },
+          { "answerText": "Lasting", "isCorrect": true },
+          { "answerText": "Length", "isCorrect": false }
+        ]
+      },
+      { "id": 5,
+        "question": "How many days are in a week?",
+        "answerOptions": [
+          { "answerText": "5", "isCorrect": false },
+          { "answerText": "6", "isCorrect": false },
+          { "answerText": "7", "isCorrect": true }
+        ]
+      },
+      { "id": 6,
+        "question": "Which of these liquids can be used as an accelerant in a fire?",
+        "answerOptions": [
+          { "answerText": "Wood", "isCorrect": false },
+          { "answerText": "Gasoline", "isCorrect": true },
+          { "answerText": "Water", "isCorrect": false }
+        ]
+      },
+      { "id": 7,
+        "question": "What is the format of this question?",
+        "answerOptions": [
+          { "answerText": "Fill in the blank", "isCorrect": false },
+          { "answerText": "True or false", "isCorrect": false },
+          { "answerText": "Multiple choice", "isCorrect": true }
+        ]
+      },
+      { "id": 8,
+        "question": "Which of the following words rhymes with orange?",
+        "answerOptions": [
+          { "answerText": "Light", "isCorrect": false },
+          { "answerText": "Porridge", "isCorrect": false },
+          { "answerText": "Door hinge", "isCorrect": false },
+          { "answerText": "None of the above", "isCorrect": true }
+        ]
+      },
+      { "id": 9,
+        "question": "What is (10 x 3) + 2?",
+        "answerOptions": [
+          { "answerText": "15", "isCorrect": false },
+          { "answerText": "26", "isCorrect": false },
+          { "answerText": "32", "isCorrect": true }
+        ]
+      },
+      { "id": 10,
+        "question": "How many days are in a week excluding weekends?",
+        "answerOptions": [
+          { "answerText": "2", "isCorrect": false },
+          { "answerText": "5", "isCorrect": true },
+          { "answerText": "7", "isCorrect": false }
+        ]
+      }
+      ,
+      { "id": 11,
+        "question": "Which of the following is generally perceived first?",
+        "answerOptions": [
+          { "answerText": "Thunder before lightning", "isCorrect": false },
+          { "answerText": "Lightning before thunder", "isCorrect": true },
+          { "answerText": "They occur roughly at the same time", "isCorrect": false }
+        ]
+      },
+      { "id": 12,
+        "question": "Which of the following animals belongs to the canine family?",
+        "answerOptions": [
+          { "answerText": "Cat", "isCorrect": false },
+          { "answerText": "Dog", "isCorrect": true },
+          { "answerText": "Hamster", "isCorrect": false }
+        ]
+      },
+      { "id": 13,
+        "question": "Which of the following can be used to put out a fire?",
+        "answerOptions": [
+          { "answerText": "Wood", "isCorrect": false },
+          { "answerText": "Gasoline", "isCorrect": false },
+          { "answerText": "Water", "isCorrect": true }
+        ]
+      },
+      { "id": 14,
+        "question": "What does a fire need to survive?",
+        "answerOptions": [
+          { "answerText": "Oxygen (O2)", "isCorrect": true },
+          { "answerText": "Water (H2O)", "isCorrect": false },
+          { "answerText": "Carbon dioxide (CO2)", "isCorrect": false }
+        ]
+      },
+      { "id": 15,
+        "question": "Which of the following is in alphabetical order?",
+        "answerOptions": [
+          { "answerText": "A,C,D,E", "isCorrect": false },
+          { "answerText": "A,B,F,J", "isCorrect": true },
+          { "answerText": "A,C,D,B", "isCorrect": false },
+          { "answerText": "A,B,I,C", "isCorrect": false }
+        ]
+      },
+      { "id": 16,
+        "question": "What is (2 x 3) + 10?",
+        "answerOptions": [
+          { "answerText": "16", "isCorrect": true },
+          { "answerText": "26", "isCorrect": false },
+          { "answerText": "32", "isCorrect": false }
+        ]
+      },
+      { "id": 17,
+        "question": "Which of the following starts with gas?",
+        "answerOptions": [
+          { "answerText": "Retirement", "isCorrect": false },
+          { "answerText": "Automobile", "isCorrect": true },
+          { "answerText": "Aberration", "isCorrect": false },
+          { "answerText": "Television", "isCorrect": false }
+        ]
+      }
+      ,
+      { "id": 18,
+        "question": "What of the following words has an odd number of letters?",
+        "answerOptions": [
+          { "answerText": "Matrix", "isCorrect": false },
+          { "answerText": "Mixer", "isCorrect": true },
+          { "answerText": "Mail", "isCorrect": false },
+          { "answerText": "Minute", "isCorrect": false }
+        ]
+      },
+      { "id": 19,
+        "question": "Which of the following is not a palindrome?",
+        "answerOptions": [
+          { "answerText": "91019", "isCorrect": false },
+          { "answerText": "boat", "isCorrect": true },
+          { "answerText": "racecar", "isCorrect": false }
+        ]
+      },
+      { "id": 20,
+        "question": "Which of the following becomes the word 'longer' when a letter is removed?",
+        "answerOptions": [
+          { "answerText": "Lounging", "isCorrect": false },
+          { "answerText": "Lengthy", "isCorrect": false },
+          { "answerText": "Lounger", "isCorrect": true },
+          { "answerText": "Lounge", "isCorrect": false }
+        ]
+      },
+      { "id": 21,
+        "question": "What is (30 x 6) + 9",
+        "answerOptions": [
+          { "answerText": "186", "isCorrect": false },
+          { "answerText": "369", "isCorrect": false },
+          { "answerText": "189", "isCorrect": true },
+          { "answerText": "356", "isCorrect": false }
+        ]
+      },
+      { "id": 22,
+        "question": "Which of the following represents one quarter in decimal form?",
+        "answerOptions": [
+          { "answerText": "0.15", "isCorrect": false },
+          { "answerText": "0.20", "isCorrect": false },
+          { "answerText": "4.00", "isCorrect": false },
+          { "answerText": "0.25", "isCorrect": true }
+        ]
+      },
+      { "id": 23,
+        "question": "A palindrome is a word or phrase that is spelled the same written forward or backward. Is 'stets' a palindrome?",
+        "answerOptions": [
+          { "answerText": "Yes", "isCorrect": true },
+          { "answerText": "No", "isCorrect": false }
+        ]
+      },
+      { "id": 24,
+        "question": "The sum of the following numbers adds up to sixteen. 6, -4, 5, 3, -2, 8",
+        "answerOptions": [
+          { "answerText": "True", "isCorrect": true },
+          { "answerText": "False", "isCorrect": false }
+        ]
+      }
+      ,
+      { "id": 25,
+        "question": "Given the following sequence. 1, 3, 5, 7, 9, _. What number comes next in the sequence?",
+        "answerOptions": [
+          { "answerText": "10", "isCorrect": false },
+          { "answerText": "11", "isCorrect": true },
+          { "answerText": "13", "isCorrect": false },
+          { "answerText": "15", "isCorrect": false }
+        ]
+      },
+      { "id": 26,
+        "question": "Which of the following is least like the others?",
+        "answerOptions": [
+          { "answerText": "Shark", "isCorrect": false },
+          { "answerText": "Dolphin", "isCorrect": false },
+          { "answerText": "Swordfish", "isCorrect": false },
+          { "answerText": "Turtle", "isCorrect": true }
+        ]
+      },
+      { "id": 27,
+        "question": "If you rearrange the letters of 'ahret,' you would have the name of a(n):",
+        "answerOptions": [
+          { "answerText": "Animal", "isCorrect": false },
+          { "answerText": "Fish", "isCorrect": false },
+          { "answerText": "Organ", "isCorrect": true },
+          { "answerText": "Country", "isCorrect": false }
+        ]
+      },
+      { "id": 28,
+        "question": "The sum of the following numbers adds up to sixteen. 1, 3, 5, 7",
+        "answerOptions": [
+          { "answerText": "True", "isCorrect": false },
+          { "answerText": "False", "isCorrect": true }
+        ]
+      }
+    ]
+  }
